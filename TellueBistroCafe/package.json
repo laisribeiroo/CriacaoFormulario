@@ -1,0 +1,11 @@
+{
+  "name": "CriacaoFormulario(TellueBistroCafe)",
+  "version": "1.0.0 Beta",
+  "description": "Tellue Bistrô",
+  "main": "index.html",
+  "author": "Maria Lais",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
